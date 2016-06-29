@@ -11,7 +11,7 @@ Use console.log(); and inside the parethesis add quotes with the message you'd l
 
 ## Running
 
-Just click on the start button to run NodejsConsoleApp2.
+Just click on the start button to run hello-brian.
 
 ## Expected Outcome
 
